@@ -1,6 +1,15 @@
 # 💫 About Me:
 I am a platform developer. <br>I am currently working on integrating AI agents and MCP servers to DevX platforms.<br>I am currently learning MultiAgent orchestration and MLOps. <br>I love to contribute on Agent development, Devops and MLops. 
 
+🔭 I’m currently working on I am currently working on integrating AI agents and MCP servers to DevX platforms.
+
+🌱 I’m currently learning MultiAgent orchestration and MLOps.
+
+👯 I’m looking to collaborate on Agent development, Devops and MLops.
+
+💬 Ask me about Devops,AI Agents,MCP,Python,System design.
+
+📫 How to reach me:
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_rootlees_fett) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debashishsinghb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhdebashish1@gmail.com) 
