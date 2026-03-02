@@ -1,5 +1,4 @@
 # 💫 About Me:
-I am a platform developer. <br>I am currently working on integrating AI agents and MCP servers to DevX platforms.<br>I am currently learning MultiAgent orchestration and MLOps. <br>I love to contribute on Agent development, Devops and MLops. 
 
 🔭 I’m currently working on I am currently working on integrating AI agents and MCP servers to DevX platforms.
 
