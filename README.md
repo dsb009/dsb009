@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on I am currently working on integrating AI agents and MCP servers to DevX platforms.
+🔭 I’m currently working on integrating AI agents and MCP servers to DevX, CI/CD cloud deployment platforms.
 
 🌱 I’m currently learning MultiAgent orchestration and MLOps.
 
